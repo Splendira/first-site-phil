@@ -6,6 +6,6 @@ Il n’y a pas d’interactions dynamiques, ce qui en fait un bon exercice pour 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 GB <br>
-To view the project, click here 👉 https://philipferrand.github.io/first-site-phil/
+To view the project, click here 👉 https://philipferrand.github.io/first-site-phil/ <br>
 This project is a static website found on Frontend Mentor, a platform that provides web development challenges. The aim of this project is to enhance my skills by recreating a provided design. <br>
 There are no dynamic interactions, making it a great exercise for focusing on layout and visual styling.
