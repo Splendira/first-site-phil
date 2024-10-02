@@ -1,21 +1,21 @@
 :root {
   /* Primary color*/
 
-  --Soft-red: hsl(7, 99%, 70%);
-  --Yellow: hsl(51, 100%, 49%);
-  --Dark-desaturated-cyan: hsl(167, 40%, 24%); /*(graphic design text)*/
-  --Dark-blue: hsl(198, 62%, 26%); /*(photography text)*/
-  --Dark-moderate-cyan: hsl(168, 34%, 41%); /*(footer)*/
-  --Blue-hero-section: rgb(52, 176, 255);
-  --Footer-bg: rgb(127, 204, 185);
+  --Soft-red: #fe7867;
+  --Yellow: #fad400;
+  --Dark-desaturated-cyan: #25564b; /*(graphic design text)*/
+  --Dark-blue: #19536b; /*(photography text)*/
+  --Dark-moderate-cyan: #458c7e; /*(footer)*/
+  --Blue-hero-section: #33b1ff;
+  --Footer-bg: #7fccb9;
 
   /* Neutral colors */
 
-  --Very-dark-desaturated-blue: hsl(212, 27%, 19%);
-  --Very-dark-grayish-blue: hsl(213, 9%, 39%);
-  --Dark-grayish-blue: hsl(232, 10%, 55%);
-  --Grayish-blue: hsl(210, 4%, 67%);
-  --White: hsl(0, 0%, 100%);
+  --Very-dark-desaturated-blue: #23303e;
+  --Very-dark-grayish-blue: #5a636c;
+  --Dark-grayish-blue: #818498;
+  --Grayish-blue: #a7abae;
+  --White: #ffffff;
 
   /* Sizes */
 
@@ -106,7 +106,6 @@ ul li a {
     width: 8em;
   }
 }
-
 
 /* HAMBURGER MENU JS */
 
@@ -199,6 +198,7 @@ ul li a {
   color: var(--White);
   cursor: pointer;
   text-decoration: none;
+  border: none;
 }
 
 .arrow-icone::after {
@@ -222,8 +222,7 @@ ul li a {
 }
 
 @media (orientation: landscape) {
- 
-  .title-hero-section{
+  .title-hero-section {
     margin-top: 60px;
   }
 }
