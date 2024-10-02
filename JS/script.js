@@ -22,4 +22,4 @@ function handleScrollPage(e) {
     top: element,
     behavior: "smooth",
   });
-}
+} 
